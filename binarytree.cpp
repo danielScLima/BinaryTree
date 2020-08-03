@@ -467,6 +467,7 @@ void BinaryTree::dealockNodes()
     {
         root->dealockSubTree();
         delete root;
+        root = nullptr;
     }
 }
 

@@ -129,6 +129,11 @@ public:
      * \return
      */
     BinaryTreeNode* getRoot();
+
+    /*!
+     * \brief dealockNodes
+     */
+    void dealockNodes();
 private:
     struct BinaryTreeNode* root = nullptr;
 
@@ -167,10 +172,7 @@ private:
      * \param content
      */
     void posOrder(BinaryTreeNode *binaryTreeNode, std::string &content);
-    /*!
-     * \brief dealockNodes
-     */
-    void dealockNodes();
+
 
 };
 
