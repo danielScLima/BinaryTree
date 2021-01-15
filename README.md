@@ -1,5 +1,7 @@
 Binary Tree
 ====================
+Build with AppVeyor: [![Build status](https://ci.appveyor.com/api/projects/status/j64gjm1vn8j1lnud?svg=true)](https://ci.appveyor.com/project/DanielSLima/binarytree)
+
 Build with Travis: [![Build Status](https://www.travis-ci.com/danielScLima/BinaryTree.svg?branch=master)](https://www.travis-ci.com/danielScLima/BinaryTree)
 
 This repository has a project with the implementation of a Binary Tree.
