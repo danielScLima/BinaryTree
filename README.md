@@ -1,5 +1,6 @@
 Binary Tree
 ====================
+Build with Travis: [![Build Status](https://www.travis-ci.com/danielScLima/BinaryTree.svg?branch=master)](https://www.travis-ci.com/danielScLima/BinaryTree)
 
 This repository has a project with the implementation of a Binary Tree.
 
